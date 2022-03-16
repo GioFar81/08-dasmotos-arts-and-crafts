@@ -1,0 +1,76 @@
+/* Main CSS */
+
+body {
+    margin: 20px 10px;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+img {
+    margin-top: 30px;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+p {
+    margin-top: 30px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+header {
+    background-image: url("../img/pattern.webp");
+    background-position: center;
+}
+
+header h1 {
+    color: khaki;
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+    color: #fff;
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+    color: #fff;
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.paint h2 {
+    background-color: skyblue;
+    color: #fff;
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+span {
+    color: blue;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
